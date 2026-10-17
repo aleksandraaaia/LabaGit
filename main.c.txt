@@ -7,7 +7,7 @@ int main(void)
 
     printf("Enter two integers: ");
     scanf("%d %d", &a, &b);
-printf("soom = %d\n", a + b);
+printf("som = %d\n", a + b);
 
     return 0;
 }
