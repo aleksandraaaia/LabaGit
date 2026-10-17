@@ -5,8 +5,13 @@ int main(void)
     //C6 для схемы//
     int c, d;
 
+
     printf("Enter two integers: ");
 //C8//
+
+    printf("Enter too integers: ");
+
+
     scanf("%d %d", &a, &b);
 
 printf("Sum = %d\n", a - b);
