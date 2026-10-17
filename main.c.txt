@@ -3,10 +3,10 @@
 int main(void)
 {
     
-    int a, b;
+    int c, b;
 
     printf("Enter two integers: ");
-    scanf("%d %d", &a, &b);
+    scanf("%d %d", &c, &b);
 
     return 0;
 }
