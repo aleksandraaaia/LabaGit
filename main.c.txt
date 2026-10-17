@@ -6,7 +6,7 @@ int main(void)
     int c, d;
 
     printf("Enter two integers: ");
-
+//C8//
     scanf("%d %d", &a, &b);
 printf("Sum = %d\n", a - b);
 
