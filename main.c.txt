@@ -2,7 +2,7 @@
 
 int main(void)
 {
-    
+    //C6 для схемы//
     int c, d;
 
     printf("Enter two integers: ");
