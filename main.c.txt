@@ -8,9 +8,13 @@ int main(void)
     printf("Enter two integers: ");
 //C8//
     scanf("%d %d", &a, &b);
+
 printf("Sum = %d\n", a - b);
 
     scanf("%d %d", &c, &d);
+
+
+printf("som = %d\n", a + b);
 
 
     return 0;
