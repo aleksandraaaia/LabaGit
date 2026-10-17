@@ -3,11 +3,15 @@
 int main(void)
 {
     
-    int a, b;
+    int c, d;
 
     printf("Enter two integers: ");
+
     scanf("%d %d", &a, &b);
 printf("Sum = %d\n", a - b);
+
+    scanf("%d %d", &c, &d);
+
 
     return 0;
 }
